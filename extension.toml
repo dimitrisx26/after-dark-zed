@@ -1,0 +1,7 @@
+id = "after-dark-zed"
+name = "After Dark (Zed)"
+version = "0.0.1"
+schema_version = 1
+authors = ["dimitris-xynos"]
+description = "After Dark theme converted from VS Code and tuned for Zed."
+repository = "https://github.com/your-name/my-zed-extension"
